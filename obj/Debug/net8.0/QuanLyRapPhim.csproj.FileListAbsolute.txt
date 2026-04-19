@@ -46,3 +46,5 @@ D:\C#\QuanLyRapPhim\obj\Debug\net8.0\refint\QuanLyRapPhim.dll
 D:\C#\QuanLyRapPhim\obj\Debug\net8.0\QuanLyRapPhim.pdb
 D:\C#\QuanLyRapPhim\obj\Debug\net8.0\QuanLyRapPhim.genruntimeconfig.cache
 D:\C#\QuanLyRapPhim\obj\Debug\net8.0\ref\QuanLyRapPhim.dll
+D:\C#\QuanLyRapPhim\obj\Debug\net8.0\QuanLyRapPhim.sourcelink.json
+D:\C#\QuanLyRapPhim\obj\Debug\net8.0\QuanLyRapPhim.MvcApplicationPartsAssemblyInfo.cs

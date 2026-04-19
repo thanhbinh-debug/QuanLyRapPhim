@@ -4,7 +4,7 @@
     {
         #region SuatChieueeeee
         private string phim;
-        private int phong;
+        private string phong;
         private DateTime thoiGian;
         #endregion 
 
@@ -14,7 +14,7 @@
             get { return phim; }
             set { phim = value; }
         }
-        public int Phong
+        public string Phong
         {
             get { return phong; }
             set { phong = value; }

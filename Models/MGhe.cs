@@ -5,9 +5,10 @@
         #region Gheeee
         private int soGhe;
         private bool daDat;
+        private string trangThai { get; set; }
         #endregion
         // khai property để có thể truy xuất sửa đổi dữ liệu
-         #region Property Gheeee
+        #region Property Gheeee
         public int SoGhe
         {
             get { return soGhe; }

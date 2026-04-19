@@ -7,6 +7,7 @@
         private string tenPhim;
         private string theLoai;
         private int thoiLuong;
+        private int api_id;
         #endregion
 
         //khai property để có thể truy xuất sửa đổi dữ liệu
@@ -33,6 +34,11 @@
         {
             get { return thoiLuong; } 
             set { thoiLuong = value; }
+        }
+        public int API_ID
+        {
+            get { return api_id; }
+            set { api_id = value; }
         }
         #endregion  
     }
